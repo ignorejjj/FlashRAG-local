@@ -38,6 +38,8 @@ https://github.com/user-attachments/assets/8ca00873-5df2-48a7-b853-89e7b18bc6e9
 <a href="https://trendshift.io/repositories/10454" target="_blank"><img src="https://trendshift.io/api/badge/repositories/10454" alt="RUC-NLPIR%2FFlashRAG | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 
+![Alt](https://repobeats.axiom.co/api/embed/1652fb83858bdac2b92039f7994f50560d736c09.svg "Repobeats analytics image")
+
 ## :link: Navigation
 - [Features](#sparkles-features)
 - [Roadmap](#mag_right-roadmap)
